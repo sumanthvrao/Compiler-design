@@ -1,0 +1,8 @@
+copy,800
+glob1,0
+f,0
+lhs,10
+new,19
+copy2,19
+glob2,0
+temp,120
